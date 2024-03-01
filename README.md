@@ -1,2 +1,2 @@
 # learngit
-Lear how to use git remotely.
+Learn how to use git remotely.
